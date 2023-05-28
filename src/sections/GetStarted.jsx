@@ -30,7 +30,7 @@ export const GetStarted = () => (
         className="flex flex-[0.75] flex-col justify-center"
       >
         <TypingText title="| How Metaversus Works" />
-        <TitleText title={<>Get started with just a few clicks</>} />
+        <TitleText title="Get started with just a few clicks" />
         <div className="mt-[31px] flex max-w-[370px] flex-col gap-[24px]">
           {startingFeatures.map((feature, index) => (
             <StartSteps
