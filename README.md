@@ -3,7 +3,7 @@
 
 # Metaverse
 
-A multivere personal website created with framer motion effects
+'A multivere personal website created with framer motion effects'
 
 
 ## Functionalities
